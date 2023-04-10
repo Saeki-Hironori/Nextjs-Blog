@@ -1,1 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+Next.jsを用いた簡単なページ遷移確認用コード
+
+https://nextjs-blog-saeki-hironori.vercel.app/
